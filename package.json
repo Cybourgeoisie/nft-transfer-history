@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get the transfer history for a set of token IDs for an ERC-721 token contract",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
